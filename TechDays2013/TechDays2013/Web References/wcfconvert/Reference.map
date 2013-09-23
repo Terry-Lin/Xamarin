@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://wcfconvert.azurewebsites.net/WCFTempService.svc?xsd=xsd1" filename="WCFTempService.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://wcfconvert.azurewebsites.net/WCFTempService.svc?disco" filename="WCFTempService.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://wcfconvert.azurewebsites.net/WCFTempService.svc?xsd=xsd0" filename="WCFTempService0.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://wcfconvert.azurewebsites.net/WCFTempService.svc?wsdl" filename="WCFTempService.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>

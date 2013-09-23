@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechDays2013", "TechDays2013\TechDays2013.csproj", "{38BCDAE6-F78F-432A-AE51-065FEED381C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.Ad-Hoc|iPhoneSimulator.Deploy.0 = Ad-Hoc|iPhoneSimulator
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.AppStore|iPhoneSimulator.Deploy.0 = AppStore|iPhoneSimulator
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.Debug|iPhone.ActiveCfg = Debug|iPhoneSimulator
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.Debug|iPhone.Build.0 = Debug|iPhoneSimulator
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.Release|iPhone.ActiveCfg = Release|iPhone
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.Release|iPhone.Build.0 = Release|iPhone
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{38BCDAE6-F78F-432A-AE51-065FEED381C8}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TechDays2013\TechDays2013.csproj
+	EndGlobalSection
+EndGlobal
